@@ -132,14 +132,3 @@ Looking for the **"J" Component** stuffs, you've landed at right place!
 | Object Oriented Analysis and Design  | ITE1007 |
 | Software Engineering-Principles and Practices	| ITE1005 |
 
-
-[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/7)
-
-<a href="https://twitter.com/Vinit_Shahdeo"><img src="images5/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="images5/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="images5/linkedin.png" width="32px" height="32px"></a>
-
-## Oh, Thanks!
-
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo) 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Library-Management-System.svg?style=social)](https://twitter.com/intent/tweet?text=Library%20Management%20System%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Library-Management-System)
-
-
